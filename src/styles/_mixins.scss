@@ -1,0 +1,7 @@
+@mixin block-link {
+    text-decoration: none;
+
+    &:visited {
+        color: inherit;
+    }
+}
